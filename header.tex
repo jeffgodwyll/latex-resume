@@ -1,18 +1,20 @@
-\usepackage[top=0.5in, bottom=0.5in, left=0.7in, right=0.7in]{geometry}
+\usepackage[top=0.5in, bottom=0.5in, left=0.6in, right=0.6in]{geometry}
 \usepackage{tgpagella}
 \usepackage{ragged2e}
 \usepackage{hyperref}
-\ifxetex
-  \usepackage{xeCJK}
-  % \setCJKmainfont{WenQuanYi Zen Hei}
-  % \setmainfont[Mapping=tex-text]{TeX Gyre Pagella}
-\fi
 
 \usepackage{titlesec}
-\titleformat{\section}{\huge\bfseries\centering}{\thesection}{1em}{}
+\titleformat{\section}{\huge\headerfont\bfseries\centering}{\thesection}{1em}{}
 \titlespacing{\section}{0pt}{-2em}{1em}
-\titleformat{\subsection}{\large\bfseries\MakeUppercase}{\thesubsection}{1em}{}
-% \setuphead[section][style=\tfd\bf, color=titlegrey, align=middle]
+\titleformat{\subsection}{\large\headerfont\bfseries\MakeUppercase}{\thesubsection}{1em}{}
+
+\setmainfont[
+    Path=\@fontdir,
+    UprightFont=*-Light,
+    ItalicFont=*-LightItalic,
+    BoldFont=*-SemiBold,
+    BoldItalicFont=*-SemiBoldItalic,
+]{OpenSans}
 
 \usepackage{multicol}
 \pagestyle{empty}
@@ -21,6 +23,9 @@
 \renewcommand{\labelitemi}{}
 \renewcommand{\labelitemii}{\raise .5ex\hbox{\tiny$\blacktriangleright$}}
 \renewcommand{\labelitemiii}{\raise .5ex\hbox{\tiny$\blacktriangleright$}}
+
+\newcommand{\contact}[1]{#1 \headerfont\bfseries}
+
 
 % from http://tex.stackexchange.com/a/29796/16139
 \newsavebox{\zerobox}

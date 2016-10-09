@@ -1,4 +1,5 @@
-\documentclass[$if(fontsize)$$fontsize$,$endif$$if(lang)$$lang$,$endif$$if(papersize)$$papersize$,$endif$$for(classoption)$$classoption$$sep$,$endfor$]{$documentclass$}
+% \documentclass[$if(fontsize)$$fontsize$,$endif$$if(lang)$$lang$,$endif$$if(papersize)$$papersize$,$endif$$for(classoption)$$classoption$$sep$,$endfor$]{$documentclass$}
+\documentclass[10pt, a4paper]{$documentclass$}
 $if(fontfamily)$
 \usepackage{$fontfamily$}
 $else$
@@ -11,34 +12,66 @@ $endif$
 \usepackage{amssymb,amsmath}
 \usepackage{ifxetex,ifluatex}
 \usepackage{fixltx2e} % provides \textsubscript
-\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
-  \usepackage[T1]{fontenc}
-  \usepackage[utf8]{inputenc}
-$if(euro)$
-  \usepackage{eurosym}
-$endif$
-\else % if luatex or xelatex
-  \ifxetex
-    \usepackage{mathspec}
-    \usepackage{xltxtra,xunicode}
-  \else
-    \usepackage{fontspec}
-  \fi
-  \defaultfontfeatures{Mapping=tex-text,Scale=MatchLowercase}
-  \newcommand{\euro}{€}
-$if(mainfont)$
-    \setmainfont{$mainfont$}
-$endif$
-$if(sansfont)$
-    \setsansfont{$sansfont$}
-$endif$
-$if(monofont)$
-    \setmonofont[Mapping=tex-ansi]{$monofont$}
-$endif$
-$if(mathfont)$
-    \setmathfont(Digits,Latin,Greek){$mathfont$}
-$endif$
-\fi
+
+\usepackage{fontspec}
+
+% \defaultfontfeatures{Mapping=tex-text,Scale=MatchLowercase}
+%  \newcommand{\euro}{€}
+% $if(mainfont)$
+%     \setmainfont{$mainfont$}
+% $endif$
+
+% $if(sansfont)$
+%     \setsansfont{$sansfont$}
+% $endif$
+% $if(monofont)$
+%     \setmonofont[Mapping=tex-ansi]{$monofont$}
+% $endif$
+% $if(mathfont)$
+%     \setmathfont(Digits,Latin,Greek){$mathfont$}
+% $endif$
+% \fi
+
+
+% Fonts config
+\newcommand*{\fontdir}[1][fonts/]{\def\@fontdir{#1}}
+\fontdir
+
+% \setmainfont[
+%     Path=\@fontdir,
+%     UprightFont=*-Regular,
+%     ItalicFont=*-Italic,
+%     BoldFont=*-Bold,
+%     BoldItalicFont=*-BoldItalic,
+% ]{NotoSans}
+
+% Set font for header
+\newfontfamily\headerfont[
+    Path=\@fontdir,
+    UprightFont=*-Bold,
+    ItalicFont=*-BoldItalic,
+    BoldFont=*-Bold,
+    BoldItalicFont=*-BoldItalic,
+]{CormorantGaramond}
+
+\newfontfamily\headerfontlight[
+    Path=\@fontdir,
+    UprightFont=*-Light,
+    ItalicFont=*-LightItalic,
+    BoldFont=*-SemiBold,
+    BoldItalicFont=*-SemiBoldItalic,
+]{CormorantGaramond}
+
+% Set font for body
+\newfontfamily\bodyfont[
+    Path=\@fontdir,
+    UprightFont=*-Regular,
+    ItalicFont=*-Italic,
+    BoldFont=*-Bold,
+    BoldItalicFont=*-BoldItalic,
+]{OpenSans}
+
+
 % use upquote if available, for straight quotes in verbatim environments
 \IfFileExists{upquote.sty}{\usepackage{upquote}}{}
 % use microtype if available
