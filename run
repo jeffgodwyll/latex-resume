@@ -1,3 +1,3 @@
 LATEX_TEMPLATE="./template/default.latex"
 
-pandoc resume.md --template=$LATEX_TEMPLATE -H header.tex -o jeff.pdf
+pandoc resume.md --latex-engine=xelatex --template=$LATEX_TEMPLATE -H header.tex -o jeff.pdf
