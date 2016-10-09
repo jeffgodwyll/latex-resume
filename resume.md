@@ -2,11 +2,14 @@ Jeffrey Godwyll
 ===============
 
 \begin{center}
+
+\contact{
 Email: \href{mailto:jeffgodwyll@gmail.com}{jeffgodwyll@gmail.com} •
 Website: \url{https://www.jeffgodwyll.com} •
-Github: \url{https://github.com/jeffgodwyll} 
+Github: \url{https://github.com/jeffgodwyll}
 
-Phone: +233268243966
+Phone: \href{tel:+233268243966}{+233268243966}
+}
 
 \end{center}
 
@@ -15,7 +18,7 @@ Work Experience
 
 *   **Vodafone**
 
-    *Software Engineer (Contract)*, June 2016 — Present
+    *Software Engineer (Contractor)*, June 2016 — Present
 
     - Joined the demand and delivery team building scalable microservices.
 
@@ -25,11 +28,9 @@ Work Experience
 
     -  Worked on a variety of projects, including:
 
-        -   designing and building an end to end solution using Google’s Cloud
-    Platform(Google App Engine, Google Cloud Storage, Google Compute Engine) to
-    digitize highly sensitive paper documents. The solution also incorporated a
-    native android application.
-
+        -   designing and building an end to end solution using a native android
+        application and Google’s Cloud Platform(Google App Engine, Google Cloud
+        Storage, Google Compute Engine) to digitize highly sensitive documents.
 
     -   Worked with a range of web technologies including Python, Flask,
         Webapp2, Google App Engine, Google Cloud Storage, JavaScript, HTML5 and
@@ -39,12 +40,12 @@ Work Experience
 
     *Software Engineer*, September 2015 — June 2016
 
-    -  Successfully led a team of 3, designing and building large scale Python
-       web applications and APIs to interact with and to visualize geospatial
-       data using Google’s Cloud.
+    -   Successfully led a team of 3, designing and building large scale Python
+        web applications and APIs to interact with and to visualize geospatial
+        datasets.
 
-    -  Independently deployed, managed and provided technical support to clients
-       of 2 high-traffic Geonode applications.
+    -   Independently deployed, maintained and provided technical support for 2
+        high-traffic Geonode applications.
 
 *   **Google Developer Group(GDG) Ghana**
 
@@ -53,7 +54,7 @@ Work Experience
     -   Advocate and train GDGs across the country on Google App Engine, Cloud
         Endpoints and Cloud Storage
 
-    -   Formulated a team which then Initiated a kids outreach program that has
+    -   Formulated a team which then initiated a kids outreach program that has
         gone on to teach over 150 kids to code for the first time.
 
     *Developer Advocate*, 2012 — 2014
@@ -73,11 +74,15 @@ Work Experience
 
     *Lead Google Student Ambassador*, May 2013 — August 2014
 
-    -   Liaised between faculty/student body and Google.
-
     -   Leveraged Google Technology to better the lives of students through 3
     tech talks, 1 map-up event, 1 Google API hackathon and 11 Google products
     and services training.
+
+    -   Designed a 1 month module to introduce 170 students to PhoneGap
+        development.
+
+    -   Trained 35 students on digital marketing and advertising with Google
+    AdWords and AdMob.
 
 *   **Conversion Pro/Calabash labs**
 
@@ -96,16 +101,6 @@ Education
 *   **Ghana Technology University College, **
 
     *Bachelor Of Science in Computer Engineering*, July 2015
-
-*   **Udacity**
-
-    *Developing Android Apps*, April 2015
-
-    -   Earned Certificate, Exceeding Expectations
-
-*   **Accra Academy**
-
-    *WASSCE, General Science*, June 2011
 
 Projects
 --------
@@ -138,43 +133,11 @@ Projects
         application using image processing techniques. Technologies used include
         Tesseract and the Google Translate API.
 
-*   **MonthApp**, *Google Student Ambassador Project*, February 2014
-
-    -   Designed a 1 month module to introduce students to PhoneGap development.
-
-    -   Taught 170 students the basics of building hybrid mobile applications.
-
-*   **AdClass**, *Google Student Ambassador Project*, Fall 2013
-
-    -   Trained 35 students on digital marketing and advertising with Google
-    AdWords and AdMob
-
 
 Activities & Honors
 -------------------
 
--   **Invited speaker**, *NSBE Ghana 7th Annual Conference*, August 2016
-
--   **Google Chrome Top Contributor** on the *Google Product Forums and Help on
-Social, #gHelp*.
-
--   **Speaker** at *DevCongress Ghana*,  2013.
-
--   1 of 10 finalists in Africa during the **Google Cloud Developer Challenge**
-. Built ***tHelp***, an online volunteering platform.
-
--   **Mentor**, *Ahaspora*. Mentor high school seniors and university freshmen
-on succeeding in higher education.
-
--   **Project Committee Member**, *United Nations Students Association, GTUC*,
-2013 — 2015.
-
--   **Member/Organizer**, *National Society of Black Engineers, GTUC Chapter*.
-Helped organize Black History Month, 2015. Part of team to open the first high
-school NSBE Chapter in Ghana at Accra Girls.
-
--   **Volunteer** and **Organizer** at *tHelp*. Fixed tech problems of general
-public for free on National Volunteers Day.
+-   **Invited speaker**, *NSBE Ghana 7th Annual Conference*, August 2016.
 
 -   **Bug-hunter**, *Mozilla*, 2014.
 
@@ -183,24 +146,48 @@ backend and reporting dashboard for Mozilla check-ins including the results of
 automatic builds and their respective tests.
 
 -   **Udacity Android Student** fully sponsored by Google(up to $1000 worth).
-Also completed course exceeding expectations.
+    Completed course exceeding expectations. 2013.
+
+-   **Google Chrome Top Contributor** on the *Google Product Forums and Help on
+Social, #gHelp*. 2014 — Present.
+
+-   **Speaker** at *DevCongress Ghana*,  2013.
+
+-   **Finalist** in the 2013 *Google Cloud Developer Challenge*. Built
+***tHelp***, an online volunteering platform.
+
+-   **Mentor**, *Ahaspora*. Mentor high school seniors and university freshmen
+on succeeding in higher education.
+
+-   **Project Committee Member**, *United Nations Students Association, GTUC*,
+2013 — 2015.
+
+-   **Member/Organizer**, *National Society of Black Engineers, GTUC Chapter*.
+Co-organized Black History Month, 2015. Part of team to open the first high
+school NSBE Chapter in Ghana at Accra Girls.
+
+-   **Volunteer** and **Organizer** at *tHelp*, fixing tech problems of general
+public for free on National Volunteers Day.
 
 
-Skills
+Skills & Interests
 ------
 
-*   **Programming**
+*   **Technical Expertise**:
+    Python, Flask, Google App Engine, JavaScript.
 
-    -   Python, Java, JavaScript
+*   **Other Technology**:
+    Java(Android), Markdown, CSS, HTML, Node.js, REST, SOAP, XML,
+    Google Cloud Storage, Heroku, Google Compute Engine, Git,
+    Google Cloud Datastore(NoSQL), PostgreSQL, OracleDb,
+    Linux(Ubuntu, Debian, Oracle Linux, RHEL, Centos),
+    Apache HTTP Server, Nginx,
+    Packer, Vagrant, VirtualBox, Docker,
+    Vim, Android Studio, Shapefiles, KML, GeoJSON, Fusion tables,
+    Google Earth Engine, ArcGIS, CircuitMaker, GIMP.
 
-*   **Other Technology**
+*   **Some Interests in no particular order include**
+    guitar music composition, gaming, football(soccer), open source, arduino &
+    raspberry pi boards, disassembly and reassembly of electronics, web
+    design and machine learning.
 
-    -   Markdown, CSS, HTML, Vim, Android Studio, Flask, Google App Engine,
-        Google Cloud Storage, Google Compute Engine, Shapefiles, KML, GeoJSON,
-        Fusion tables, Google Earth Engine, Esri software, Git, Linux(Ubuntu,
-        Debian, Oracle Linux, RHEL, Centos), CircuitMaker, GIMP, Google Cloud
-        Datastore(NoSQL), PostgreSQL, OracleDb, Packer,  Vagrant, Docker,
-        SystemV, Systemd, Heroku.
-
-
-[tel]: 00233268243966
