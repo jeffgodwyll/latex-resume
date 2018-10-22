@@ -1,6 +1,7 @@
 Jeffrey Godwyll
 ===============
 
+
 \begin{center}
 
 \contact{
@@ -13,20 +14,76 @@ Phone: \href{tel:+233268243966}{+233268243966}
 
 \end{center}
 
+Summary
+-------
+Experienced cloud specialist. I am interested in the space where engineering,
+operations, and entrepreneurship collide.
+
 Work Experience
 ---------------
 
+*   **Wineloya Digital Advertising**
+
+    *Chief Technology Officer*,  June 2017 - Present
+
+    -  Leading a team of engineers in Accra who build and support client projects
+    ranging from web, iOS, and Android applications.
+
+    -  Actively engaged in building the culture in our engineering team. This
+    includes peer code review processes on Github to improve the code quality
+    and increase collaboration within the team. To improve communication across
+    teams, I encourage and promote the use of internal presentations.
+
+
+*   **Google Developer Group(GDG) Ghana**
+
+    *Co Orgnanizer*,  February 2018 - Present
+
+    - Manage and facilitate several events and liaise with several stakeholders
+    to implement plans.
+
+    - Present talks on the usage of Google Cloud products for hobbyist and
+    production workloads.
+
+    *Outreach Lead*, August 2014 — February 2018
+
+    -  Oversaw the day to day organization of community mobilization in Ghana.
+
+    -  Trained GDGs across the country on Google App Engine, Cloud
+    Endpoints and Cloud Storage
+
+    -  Formulated teams which to teach over 150 kids to code for the first time.
+
+    *Developer Advocate*, 2012 — 2014
+
+    -  Trained over 200 developers on Google Cloud Technology especially Google
+       App Engine.
+
+*   **Adaptive Computer Solutions Ghana Limited**
+
+    *Senior Applications Engineer, Consultant*, March 2017 - May 2017
+
+    -  Architected and implemented systems for clients including MTN Ghana and
+    Starbow Airlines.
+
+    -  Mentored junior developers and conducted workshops to train seasoned and
+    beginner developers to version projects more easily.
+
 *   **Vodafone**
 
-    *Software Engineer (Contractor)*, June 2016 — Present
+    *Software Engineer (Contractor)*, June 2016 — February 2017
 
-    - Joined the demand and delivery team building scalable microservices.
+    - Developed a new microservices platform to extend Vodafone internet
+    services to more areas in Ghana. Work involved API design and
+    implementation. Integrated with legacy systems and protocols including
+    SOAP, HTTP
+
 
 *   **Freelance**
 
-    *Web Developer & Consultant*, 2011 — Present
+    *Web & Mobile Software Consultant*, Sept 2012 — January 2016
 
-    -  Worked on a variety of projects, including:
+    -  Used and implemented a range of technologies, including:
 
         -   designing and building an end to end solution using a native android
         application and Google’s Cloud Platform(Google App Engine, Google Cloud
@@ -40,27 +97,15 @@ Work Experience
 
     *Software Engineer*, September 2015 — June 2016
 
-    -   Successfully led a team of 3, designing and building large scale Python
-        web applications and APIs to interact with and to visualize geospatial
-        datasets.
+    - Worked with a variety of geospatial datasets using Shapefiles, KML,
+    GeoJSON, Fusion tables, Google Earth Engine, Esri software.
 
-    -   Independently deployed, maintained and provided technical support for 2
-        high-traffic Geonode applications.
+    - Built web applications and APIs to interact with and to visualize
+    geospatial data.
 
-*   **Google Developer Group(GDG) Ghana**
+    - Deployed and managed 2 high-traffic Geonode applications.
 
-    *Outreach Lead*, August 2014 — Present
 
-    -   Advocate and train GDGs across the country on Google App Engine, Cloud
-        Endpoints and Cloud Storage
-
-    -   Formulated a team which then initiated a kids outreach program that has
-        gone on to teach over 150 kids to code for the first time.
-
-    *Developer Advocate*, 2012 — 2014
-
-    -   Trained over 200 developers on Google Cloud Technology especially Google
-       App engine.
 
 *   **Ghana Technology University College**
 
@@ -68,31 +113,16 @@ Work Experience
 
     -   Guided 42 Students through a 7-week intensive course on developing
         android apps, successfully building 5 apps in the process, with 3 teams
-        going on to win awards for the their apps on campus.
+        going on to win awards for their apps on campus.
 
     -   Held weekly office hours.
 
     *Lead Google Student Ambassador*, May 2013 — August 2014
 
-    -   Leveraged Google Technology to better the lives of students through 3
-    tech talks, 1 map-up event, 1 Google API hackathon and 11 Google products
-    and services training.
-
-    -   Designed a 1 month module to introduce 170 students to PhoneGap
-        development.
-
-    -   Trained 35 students on digital marketing and advertising with Google
-    AdWords and AdMob.
-
-*   **Conversion Pro/Calabash labs**
-
-    *Web Developer Intern*, Summer 2014
-
-    -   Prototyped and developed a technical support web application using
-        node.js and angularjs.
-
-    -   Helped to prototype a Shopify web application and redesigned 2 Shopify
-        stores that increased sales by over 20%.
+    - Facilitated workshops, campaigns and fun events, including training
+    sessions and hackathons while building a thriving tech community on campus.
+    Introduced students and faculty to Google Cloud Technology, Android as well
+    as numerous other Google products and services.
 
 
 Education
@@ -102,7 +132,11 @@ Education
 
     *Bachelor Of Science in Computer Engineering*, July 2015
 
-Projects
+*   **Accra Academy**
+
+    *WASSCE, General Science*, 2011
+
+Personal Projects
 --------
 
 *   **Flagen**, *Static Site Builder*, May 2015
@@ -137,7 +171,13 @@ Projects
 Activities & Honors
 -------------------
 
+-   **Invited speaker and Google Cloud Mentor**, *NASA Space Apps Challenge*,
+October 2018.
+
+
 -   **Invited speaker**, *NSBE Ghana 7th Annual Conference*, August 2016.
+
+-  **Google Cloud Certified**, *CP100A*, 2015
 
 -   **Bug-hunter**, *Mozilla*, 2014.
 
@@ -177,12 +217,14 @@ Skills & Interests
     Python, Flask, Google App Engine, JavaScript.
 
 *   **Other Technology**:
-    Java(Android), Markdown, CSS, HTML, Node.js, REST, SOAP, XML,
-    Google Cloud Storage, Heroku, Google Compute Engine, Git,
+    Angular, Java(Android), Markdown, CSS, HTML, Node.js, C++, REST, SOAP, XML,
+    React Native,
+    Google Cloud Storage, Heroku, Google Compute Engine, Git, Google Cloud
+    Builder
     Google Cloud Datastore(NoSQL), PostgreSQL, OracleDb,
     Linux(Ubuntu, Debian, Oracle Linux, RHEL, Centos),
     Apache HTTP Server, Nginx,
-    Packer, Vagrant, VirtualBox, Docker,
+    Packer, Vagrant, VirtualBox, Docker, Continuous Integration, Continuous Deployment,
     Vim, Android Studio, Shapefiles, KML, GeoJSON, Fusion tables,
     Google Earth Engine, ArcGIS, CircuitMaker, GIMP.
 
