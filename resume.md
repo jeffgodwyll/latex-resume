@@ -22,9 +22,7 @@ operations, and entrepreneurship collide.
 Work Experience
 ---------------
 
-*   **Wineloya Digital Advertising**
-
-    *Chief Technology Officer*,  June 2017 - Present
+*   **Wineloya Digital Advertising**, *Chief Technology Officer*,  June 2017 - Present
 
     -  Leading a team of engineers in Accra who build and support client projects
     ranging from web, iOS, and Android applications.
@@ -34,6 +32,15 @@ Work Experience
     and increase collaboration within the team. To improve communication across
     teams, I encourage and promote the use of internal presentations.
 
+*   **Effect Studios**, *Senior Developer*, March 2019 - Present
+
+    - Building and maintaining Total Maintenance and WholesomeCraft. These 2
+      different systems use Django, a Python framework, to implement a RESTful
+      API which are connected by the frontend which is an Angular 8 web
+      application as well as Android and iOS mobile apps.
+
+    - Restructured tech team to introduce a more robust development and 
+    deployment process. Migrated several apps towards the cloud.
 
 *   **Google Developer Group(GDG) Ghana**
 
@@ -59,9 +66,8 @@ Work Experience
     -  Trained over 200 developers on Google Cloud Technology especially Google
        App Engine.
 
-*   **Adaptive Computer Solutions Ghana Limited**
-
-    *Senior Applications Engineer, Consultant*, March 2017 - May 2017
+*   **Adaptive Computer Solutions Ghana Limited**, *Senior Applications Engineer, Consultant*, 
+    March 2017 - May 2017
 
     -  Architected and implemented systems for clients including MTN Ghana and
     Starbow Airlines.
@@ -69,9 +75,7 @@ Work Experience
     -  Mentored junior developers and conducted workshops to train seasoned and
     beginner developers to version projects more easily.
 
-*   **Vodafone**
-
-    *Software Engineer (Contractor)*, June 2016 — February 2017
+*   **Vodafone**, *Software Engineer (Contractor)*, June 2016 — February 2017
 
     - Developed a new microservices platform to extend Vodafone internet
     services to more areas in Ghana. Work involved API design and
@@ -79,31 +83,40 @@ Work Experience
     SOAP, HTTP
 
 
-*   **Freelance**
+*   **Freelance**, *Web & Mobile Software Consultant*, Sept 2012 — January 2016
 
-    *Web & Mobile Software Consultant*, Sept 2012 — January 2016
+    -  Used and implemented a range of technologies, including: designing and 
+    building an end to end solution using a native android
+    application and Google’s Cloud Platform(Google App Engine, Google Cloud
+    Storage, Google Compute Engine) to **digitize highly sensitive documents**.
 
-    -  Used and implemented a range of technologies, including:
 
-        -   designing and building an end to end solution using a native android
-        application and Google’s Cloud Platform(Google App Engine, Google Cloud
-        Storage, Google Compute Engine) to digitize highly sensitive documents.
+    - **Flagen**, *Static Site Builder*, May 2015. 
+    Built with Flask. A super simple site/blog generator.
 
-    -   Worked with a range of web technologies including Python, Flask,
-        Webapp2, Google App Engine, Google Cloud Storage, JavaScript, HTML5 and
-        Docker.
 
-*   **Remote Sensing & GIS Lab, University of Ghana**
+    - **QOD**, *Quote of the Day Application*, 2014. 
+    Native android app(retired) and web app powered by a Google Cloud
+    Endpoints API demonstrating scalable APIs for multiple platforms.
 
-    *Software Engineer*, September 2015 — June 2016
+    - **RTTAP**, *Real Time Translation Application with Image Processing*, 
+    February 2014 - August 2015. Researched, designed and implemented a real time 
+    android translation application using image processing techniques. Technologies 
+    used include Tesseract and the Google Translate API.
+
+*   **Remote Sensing & GIS Lab, University of Ghana**, *Software Engineer*, September 
+    2015 — June 2016
 
     - Worked with a variety of geospatial datasets using Shapefiles, KML,
-    GeoJSON, Fusion tables, Google Earth Engine, Esri software.
-
-    - Built web applications and APIs to interact with and to visualize
+    GeoJSON, Fusion tables, Google Earth Engine, Esri software. Built web 
+    applications and APIs to interact with and to visualize
     geospatial data.
 
-    - Deployed and managed 2 high-traffic Geonode applications.
+    - Deployed and managed 2 high-traffic Geonode applications. 
+    One of which was **SADA Geoportal**, This platform is a one-stop shop for
+    sharing and dissemination of spatial data from the Savannah Accelerated 
+    Development Authority Zone (SADA Zone) in Ghana. Built with Geonode, a 
+    Python/Django based platform.
 
 
 
@@ -112,10 +125,9 @@ Work Experience
     *Android Facilitator*, Summer 2015
 
     -   Guided 42 Students through a 7-week intensive course on developing
-        android apps, successfully building 5 apps in the process, with 3 teams
-        going on to win awards for their apps on campus.
-
-    -   Held weekly office hours.
+    android apps, successfully building 5 apps in the process, with 3 teams
+    going on to win awards for their apps on campus. Also Held weekly office 
+    hours.
 
     *Lead Google Student Ambassador*, May 2013 — August 2014
 
@@ -128,44 +140,11 @@ Work Experience
 Education
 ---------
 
-*   **Ghana Technology University College, **
-
-    *Bachelor Of Science in Computer Engineering*, July 2015
+*   **Ghana Technology University College**, 
+*Bachelor Of Science in Computer Engineering*, July 2015
 
 *   **Accra Academy**
-
-    *WASSCE, General Science*, 2011
-
-Personal Projects
---------
-
-*   **Flagen**, *Static Site Builder*, May 2015
-
-    -   Built with Flask. A super simple site/blog generator.
-
-*   **Sada Geoportal**, September 2015
-
-    -   This platform is a one-stop shop for sharing and dissemination of
-        spatial data from the Savannah Accelerated Development Authority Zone
-        (SADA Zone) in Ghana. Built with Geonode, a Python/Django based
-        platform.
-
-*   **QOD**, *Quote of the Day Application*, 2014
-
-    -   Native android app(retired) and web app powered by a Google Cloud
-        Endpoints API demonstrating scalable APIs for multiple platforms.
-
-*   **jeffgodwyll.com**, *Personal Site & Blog*, 2013 — Present
-
-    -   Built with Flask on top of Google App Engine with an average of 100
-        active monthly users.
-
-*   **Real Time Translation Application with Image Processing**, *Final Year
-    Project*, February 2014 - August 2015
-
-    -   Researched, designed and implemented a real time android translation
-        application using image processing techniques. Technologies used include
-        Tesseract and the Google Translate API.
+*WASSCE, General Science*, 2011
 
 
 Activities & Honors
@@ -179,9 +158,7 @@ October 2018.
 
 -  **Google Cloud Certified**, *CP100A*, 2015
 
--   **Bug-hunter**, *Mozilla*, 2014.
-
-    -   Patched bugs related to Treeherder, the
+-   **Bug-hunter**, *Mozilla*, 2014. Patched bugs related to Treeherder, the
 backend and reporting dashboard for Mozilla check-ins including the results of
 automatic builds and their respective tests.
 
@@ -195,9 +172,6 @@ Social, #gHelp*. 2014 — Present.
 
 -   **Finalist** in the 2013 *Google Cloud Developer Challenge*. Built
 ***tHelp***, an online volunteering platform.
-
--   **Mentor**, *Ahaspora*. Mentor high school seniors and university freshmen
-on succeeding in higher education.
 
 -   **Project Committee Member**, *United Nations Students Association, GTUC*,
 2013 — 2015.
@@ -214,22 +188,14 @@ Skills & Interests
 ------
 
 *   **Technical Expertise**:
-    Python, Flask, Google App Engine, JavaScript.
+    Python, Flask, Django, Google App Engine, JavaScript.
 
 *   **Other Technology**:
     Angular, Java(Android), Markdown, CSS, HTML, Node.js, C++, REST, SOAP, XML,
-    React Native,
-    Google Cloud Storage, Heroku, Google Compute Engine, Git, Google Cloud
-    Builder
-    Google Cloud Datastore(NoSQL), PostgreSQL, OracleDb,
-    Linux(Ubuntu, Debian, Oracle Linux, RHEL, Centos),
+    React Native, Google Cloud Storage, Heroku, Google Compute Engine, Git, Google Cloud
+    Builder, Google Cloud Datastore(NoSQL), PostgreSQL, OracleDb,
+    Linux(Ubuntu, Debian, Oracle Linux, RHEL, Centos), Android, MacOS,
     Apache HTTP Server, Nginx,
     Packer, Vagrant, VirtualBox, Docker, Continuous Integration, Continuous Deployment,
     Vim, Android Studio, Shapefiles, KML, GeoJSON, Fusion tables,
-    Google Earth Engine, ArcGIS, CircuitMaker, GIMP.
-
-*   **Some Interests in no particular order include**
-    guitar music composition, gaming, football(soccer), open source, arduino &
-    raspberry pi boards, disassembly and reassembly of electronics, web
-    design and machine learning.
-
+    
