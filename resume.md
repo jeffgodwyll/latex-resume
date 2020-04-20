@@ -22,9 +22,22 @@ operations, and entrepreneurship collide.
 Work Experience
 ---------------
 
-*   **Wineloya Digital Advertising**, *Chief Technology Officer*,  June 2017 - Present
+*   **Effect Studios**, *Senior Developer (Consultant)*, March 2019 - Present
 
-    -  Leading a team of engineers in Accra who build and support client projects
+    - I've architected, built and maintained Total Maintenance(an anomaly
+    reporting platform) and WholesomeCraft(a nutrition management system).
+    These 2 different systems use Django, a Python framework, to implement a
+    RESTful API which are connected by the frontend which is an Angular 8 web
+    application as well as Android and iOS mobile apps.
+
+    - Restructured tech team to introduce a more robust development and
+    deployment process. Migrated several apps towards the cloud.
+
+
+*   **Wineloya Digital Advertising**, *Chief Technology Officer*,  June 2017 -
+    December 2019
+
+    -  Led a team of engineers in Accra who built and supported client projects
     ranging from web, iOS, and Android applications.
 
     -  Actively engaged in building the culture in our engineering team. This
@@ -32,15 +45,6 @@ Work Experience
     and increase collaboration within the team. To improve communication across
     teams, I encourage and promote the use of internal presentations.
 
-*   **Effect Studios**, *Senior Developer*, March 2019 - Present
-
-    - Building and maintaining Total Maintenance and WholesomeCraft. These 2
-      different systems use Django, a Python framework, to implement a RESTful
-      API which are connected by the frontend which is an Angular 8 web
-      application as well as Android and iOS mobile apps.
-
-    - Restructured tech team to introduce a more robust development and 
-    deployment process. Migrated several apps towards the cloud.
 
 *   **Google Developer Group(GDG) Ghana**
 
@@ -66,14 +70,16 @@ Work Experience
     -  Trained over 200 developers on Google Cloud Technology especially Google
        App Engine.
 
-*   **Adaptive Computer Solutions Ghana Limited**, *Senior Applications Engineer, Consultant*, 
+*   **Adaptive Computer Solutions Ghana Limited**, *Senior Applications Engineer, Consultant*,
     March 2017 - May 2017
 
     -  Architected and implemented systems for clients including MTN Ghana and
-    Starbow Airlines.
+    Starbow Airlines. Some of which were 'self care' apps and agent ticketing
+    applications.
 
     -  Mentored junior developers and conducted workshops to train seasoned and
     beginner developers to version projects more easily.
+
 
 *   **Vodafone**, *Software Engineer (Contractor)*, June 2016 — February 2017
 
@@ -83,40 +89,42 @@ Work Experience
     SOAP, HTTP
 
 
+*   **Remote Sensing & GIS Lab, University of Ghana**, *Software Engineer*, September
+    2015 — June 2016
+
+    - Worked with a variety of geospatial datasets using Shapefiles, KML,
+    GeoJSON, Fusion tables, Google Earth Engine, Esri software. Built web
+    applications and APIs to interact with and to visualize
+    geospatial data.
+
+    - Deployed and managed 2 high-traffic Geonode applications.
+    One of which was **SADA Geoportal**, This platform is a one-stop shop for
+    sharing and dissemination of spatial data from the Savannah Accelerated
+    Development Authority Zone (SADA Zone) in Ghana. Built with Geonode, a
+    Python/Django based platform.
+
+
 *   **Freelance**, *Web & Mobile Software Consultant*, Sept 2012 — January 2016
 
-    -  Used and implemented a range of technologies, including: designing and 
+    -  Used and implemented a range of technologies, including: designing and
     building an end to end solution using a native android
     application and Google’s Cloud Platform(Google App Engine, Google Cloud
     Storage, Google Compute Engine) to **digitize highly sensitive documents**.
 
 
-    - **Flagen**, *Static Site Builder*, May 2015. 
+    - **Flagen**, *Static Site Builder*, May 2015.
     Built with Flask. A super simple site/blog generator.
 
 
-    - **QOD**, *Quote of the Day Application*, 2014. 
+    - **QOD**, *Quote of the Day Application*, 2014.
     Native android app(retired) and web app powered by a Google Cloud
     Endpoints API demonstrating scalable APIs for multiple platforms.
 
-    - **RTTAP**, *Real Time Translation Application with Image Processing*, 
-    February 2014 - August 2015. Researched, designed and implemented a real time 
-    android translation application using image processing techniques. Technologies 
+    - **RTTAP**, *Real Time Translation Application with Image Processing*,
+    February 2014 - August 2015. Researched, designed and implemented a real time
+    android translation application using image processing techniques. Technologies
     used include Tesseract and the Google Translate API.
 
-*   **Remote Sensing & GIS Lab, University of Ghana**, *Software Engineer*, September 
-    2015 — June 2016
-
-    - Worked with a variety of geospatial datasets using Shapefiles, KML,
-    GeoJSON, Fusion tables, Google Earth Engine, Esri software. Built web 
-    applications and APIs to interact with and to visualize
-    geospatial data.
-
-    - Deployed and managed 2 high-traffic Geonode applications. 
-    One of which was **SADA Geoportal**, This platform is a one-stop shop for
-    sharing and dissemination of spatial data from the Savannah Accelerated 
-    Development Authority Zone (SADA Zone) in Ghana. Built with Geonode, a 
-    Python/Django based platform.
 
 
 
@@ -126,7 +134,7 @@ Work Experience
 
     -   Guided 42 Students through a 7-week intensive course on developing
     android apps, successfully building 5 apps in the process, with 3 teams
-    going on to win awards for their apps on campus. Also Held weekly office 
+    going on to win awards for their apps on campus. Also Held weekly office
     hours.
 
     *Lead Google Student Ambassador*, May 2013 — August 2014
@@ -140,7 +148,7 @@ Work Experience
 Education
 ---------
 
-*   **Ghana Technology University College**, 
+*   **Ghana Technology University College**,
 *Bachelor Of Science in Computer Engineering*, July 2015
 
 *   **Accra Academy**
@@ -166,7 +174,7 @@ automatic builds and their respective tests.
     Completed course exceeding expectations. 2013.
 
 -   **Google Chrome Top Contributor** on the *Google Product Forums and Help on
-Social, #gHelp*. 2014 — Present.
+Social, #gHelp*. 2014 — 2018.
 
 -   **Speaker** at *DevCongress Ghana*,  2013.
 
@@ -191,11 +199,28 @@ Skills & Interests
     Python, Flask, Django, Google App Engine, JavaScript.
 
 *   **Other Technology**:
+
     Angular, Java(Android), Markdown, CSS, HTML, Node.js, C++, REST, SOAP, XML,
-    React Native, Google Cloud Storage, Heroku, Google Compute Engine, Git, Google Cloud
-    Builder, Google Cloud Datastore(NoSQL), PostgreSQL, OracleDb,
+    React Native,
+
+    Google Cloud Storage, Heroku, Google Compute Engine, Git, Google Cloud
+    Builder,
+
+    Google Cloud Datastore(NoSQL), PostgreSQL, OracleDb, Firebase RTDB
+
     Linux(Ubuntu, Debian, Oracle Linux, RHEL, Centos), Android, MacOS,
+
     Apache HTTP Server, Nginx,
+
     Packer, Vagrant, VirtualBox, Docker, Continuous Integration, Continuous Deployment,
-    Vim, Android Studio, Shapefiles, KML, GeoJSON, Fusion tables,
-    
+
+    Vim, Android Studio,
+
+    Shapefiles, KML, GeoJSON, Fusion tables.
+
+
+*   **Some Interests in no particular order include**
+    guitar music composition, gaming, football(soccer), open source, arduino &
+    raspberry pi boards, disassembly and reassembly of electronics, web
+    design and machine learning.
+
