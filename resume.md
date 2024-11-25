@@ -1,226 +1,122 @@
-Jeffrey Godwyll
-===============
-
+# Jeffrey Godwyll
 
 \begin{center}
 
 \contact{
-Email: \href{mailto:jeffgodwyll@gmail.com}{jeffgodwyll@gmail.com} •
-Website: \url{https://www.jeffgodwyll.com} •
-Github: \url{https://github.com/jeffgodwyll}
-
-Phone: \href{tel:+233268243966}{+233268243966}
+{\textcolor{iconcolor}{\faEnvelope}} \href{mailto:jeffgodwyll@gmail.com}{\underline{jeffgodwyll@gmail.com}} •
+{\textcolor{iconcolor}{\faGlobe}} \href{https://www.jeffgodwyll.com}{\underline{jeffgodwyll.com}} •
+{\textcolor{iconcolor}{\faGithub}} \href{https://github.com/jeffgodwyll}{\underline{jeffgodwyll}} •
+{\textcolor{iconcolor}{\faPhone}} \href{tel:+1 (405) 978-5796}{\underline{+1 (405) 978-5796}}
 }
 
 \end{center}
 
-Summary
--------
-Experienced cloud specialist. I am interested in the space where engineering,
-operations, and entrepreneurship collide.
+## Summary
 
-Work Experience
----------------
+Engineering leader with extensive experience in cloud architecture and scalable applications. Progressed from founding engineer to VP of Engineering, building and leading high-performing development teams. Proven track record of architecting cloud-native solutions handling 100,000+ users, with deep expertise in Google Cloud Platform. Passionate about technical mentorship and fostering developer communities, having contributed to training 6M+ people across Sub-Saharan Africa.
 
-*   **Effect Studios**, *Senior Developer (Consultant)*, March 2019 - Present
+## Professional Experience
 
-    - I've architected, built and maintained Total Maintenance(an anomaly
-    reporting platform) and WholesomeCraft(a nutrition management system).
-    These 2 different systems use Django, a Python framework, to implement a
-    RESTful API which are connected by the frontend which is an Angular 8 web
-    application as well as Android and iOS mobile apps.
+**Ignite Tournaments**, _VP of Engineering_ \hfill \textbf{July 2022 - Present}
 
-    - Restructured tech team to introduce a more robust development and
-    deployment process. Migrated several apps towards the cloud.
+_Previously: Technical Lead & Senior Software Engineer_ \hfill \textbf{July 2021 - May 2022}
 
+- Scaled engineering team from first engineer to leading 11+ developers, supporting company growth through $10M fundraise
+- Built and grew platform to 100,000+ users through robust cloud-native architecture leveraging extensive Google Cloud services (App Engine, Cloud SQL, Cloud Build, Cloud Tasks, Redis/Memcache, IAP)
+- Implemented robust CI/CD practices and 12-factor methodology, establishing scalable development workflows and infrastructure
+- Lead technical architecture decisions and cross-functional collaboration with product, design, and C-suite stakeholders
 
-*   **Wineloya Digital Advertising**, *Chief Technology Officer*,  June 2017 -
-    December 2019
+\jobsep
 
-    -  Led a team of engineers in Accra who built and supported client projects
-    ranging from web, iOS, and Android applications.
+**Effect Studios**, _Senior Developer (Consultant)_ \hfill \textbf{March 2019 - June 2021}
 
-    -  Actively engaged in building the culture in our engineering team. This
-    includes peer code review processes on Github to improve the code quality
-    and increase collaboration within the team. To improve communication across
-    teams, I encourage and promote the use of internal presentations.
+- Built and scaled WholesomeCraft, transforming Excel-based nutrition management into automated platform processing over $1M USD in first-year transactions
+- Developed Total Maintenance, an anomaly reporting platform for Total Energies, implementing robust REST API and monitoring systems
+- Architected Spikizi's cloud infrastructure handling thousands of users, integrating audio transcription and optimization for accent/dialect coaching
+- Led backend team delivering 15+ client projects, establishing CI/CD pipelines and repeatable infrastructure patterns
+- Strengthened security posture by implementing GCP-based infrastructure and security controls, achieving zero security incidents during tenure
+- Mentored junior developers and created comprehensive API and infrastructure documentation for knowledge transfer
 
+\jobsep
 
-*   **Google Developer Group(GDG) Ghana**
+**Wineloya Digital**, _Chief Technology Officer_ \hfill \textbf{June 2017 - October 2020}
 
-    *Co Orgnanizer*,  February 2018 - Present
+- Led cross-functional team of 8 (2 developers, 2 designers, 4 marketing specialists) plus managed network of dozens of field trainers
+- Recognized by Google as Digital Skills Partner, contributing to training 6M+ people across Sub-Saharan Africa through Google Digital Skills for Africa Program
+- Established digital presence for 10+ businesses through custom web solutions using Python (Flask/Django) and GCP services
+- Developed internal billboard inventory management system integrating Google Maps API for Wilmar
+- Built and maintained client solutions leveraging Google Cloud Platform while managing technical strategy and implementation
 
-    - Manage and facilitate several events and liaise with several stakeholders
-    to implement plans.
+\jobsep
 
-    - Present talks on the usage of Google Cloud products for hobbyist and
-    production workloads.
+**Sendhut**, _Mobile Engineer (Part-time)_ \hfill \textbf{May 2018 - December 2019}
 
-    *Outreach Lead*, August 2014 — February 2018
+- Developed cross-platform delivery management app using React Native, handling real-time tracking and payments
+- Contributed to REST API development for on-demand logistics platform processing 2000+ delivery orders
 
-    -  Oversaw the day to day organization of community mobilization in Ghana.
+\jobsep
 
-    -  Trained GDGs across the country on Google App Engine, Cloud
-    Endpoints and Cloud Storage
+**Adaptive Computer Solutions**, _Senior Applications Engineer, Consultant_ \hfill \textbf{March 2017 - May 2017}
 
-    -  Formulated teams which to teach over 150 kids to code for the first time.
+- Developed MTN Ghana self-service Android application enabling users to manage data, call credits, and mobile services
+- Built airline ticketing POS system for Starbow Airlines, reverse engineering native printing services to create custom SDK
+- Led team of 4 developers and later conducted Git workshops for expanded team of 20+ developers
+- Mentored junior developers on version control best practices and mobile development
 
-    *Developer Advocate*, 2012 — 2014
+\jobsep
 
-    -  Trained over 200 developers on Google Cloud Technology especially Google
-       App Engine.
+**Vodafone**, _Software Engineer_ \hfill \textbf{June 2016 - February 2017}
 
-*   **Adaptive Computer Solutions Ghana Limited**, *Senior Applications Engineer, Consultant*,
-    March 2017 - May 2017
+- Architected and implemented nationwide captive portal system for Vodafone Ghana's internet service infrastructure
+- Designed secure APIs integrating with ISP legacy systems via SOAP and HTTP protocols
+- Developed microservices platform enabling controlled public access to Vodafone's core internet services across Ghana
 
-    -  Architected and implemented systems for clients including MTN Ghana and
-    Starbow Airlines. Some of which were 'self care' apps and agent ticketing
-    applications.
+\jobsep
 
-    -  Mentored junior developers and conducted workshops to train seasoned and
-    beginner developers to version projects more easily.
+**Remote Sensing & GIS Lab, University Of Ghana**, _Software Engineer_ \hfill \textbf{September 2015 - June 2016}
 
+- Built and deployed SADA Geoportal using Geonode/Django, serving thousands of researchers, alumni, and students across University of Ghana
+- Managed on-premises Windows server infrastructure hosting geospatial applications and research data
+- Developed web applications enabling field researchers to upload and visualize geospatial data points for academic research
+- Implemented APIs handling multiple geospatial formats (Shapefiles, KML, GeoJSON, Google Earth Engine) while maintaining data integrity
 
-*   **Vodafone**, *Software Engineer (Contractor)*, June 2016 — February 2017
+\jobsep
 
-    - Developed a new microservices platform to extend Vodafone internet
-    services to more areas in Ghana. Work involved API design and
-    implementation. Integrated with legacy systems and protocols including
-    SOAP, HTTP
+**Freelance**, _Web & Mobile Software Consultant_ \hfill \textbf{Sept 2012 - January 2016}
 
+- Solo developer selected as global finalist from Ghana in 2013 Google Cloud Developer Challenge (as a student) for tHelp - a volunteering platform integrating Google Calendar, Drive, Chat, and Maps
+- Developed end-to-end document digitization system for security firm integrating Google Cloud Vision API, Cloud Storage, and Container Builder for sensitive forensic materials
+- Built RTTAP, a proof-of-concept Android application for real-time translation using image processing, implementing Tesseract OCR and Google Translate API
+- Created Flagen, an open-source static site generator built with Flask, published on GitHub and adopted by external users
+- Architected solutions using comprehensive Google Cloud stack (Cloud SQL, Compute Engine, Cloud Storage, Cloud Vision API)
 
-*   **Remote Sensing & GIS Lab, University of Ghana**, *Software Engineer*, September
-    2015 — June 2016
+## Education
 
-    - Worked with a variety of geospatial datasets using Shapefiles, KML,
-    GeoJSON, Fusion tables, Google Earth Engine, Esri software. Built web
-    applications and APIs to interact with and to visualize
-    geospatial data.
+**Ghana Communication Technology University**, _Bachelor of Science in Computer Engineering_ \hfill \textbf{2015}
 
-    - Deployed and managed 2 high-traffic Geonode applications.
-    One of which was **SADA Geoportal**, This platform is a one-stop shop for
-    sharing and dissemination of spatial data from the Savannah Accelerated
-    Development Authority Zone (SADA Zone) in Ghana. Built with Geonode, a
-    Python/Django based platform.
+### Community leadership & impact
 
+**Google Developer Group (GDG) Ghana**, _Co-Organizer & Outreach Lead_ \hfill \textbf{2014 - 2020}
 
-*   **Freelance**, *Web & Mobile Software Consultant*, Sept 2012 — January 2016
+- Led 20+ developer events and trained 200+ developers on Google Cloud Platform
+- Trained GDGs across Ghana on Google Cloud services and led team teaching 150+ kids to code
+- Built thriving tech communities through workshops, hackathons, and training sessions
 
-    -  Used and implemented a range of technologies, including: designing and
-    building an end to end solution using a native android
-    application and Google’s Cloud Platform(Google App Engine, Google Cloud
-    Storage, Google Compute Engine) to **digitize highly sensitive documents**.
+\jobsep
 
+**Google**, _Lead Student Ambassador, GCTU_ \hfill \textbf{2013 - 2014}
 
-    - **Flagen**, *Static Site Builder*, May 2015.
-    Built with Flask. A super simple site/blog generator.
+- Facilitated workshops, hackathons, and training sessions
+- Built thriving tech community on campus
+- Introduced students and faculty to Google Cloud Technology and Android
 
+## Certifications & Honors
 
-    - **QOD**, *Quote of the Day Application*, 2014.
-    Native android app(retired) and web app powered by a Google Cloud
-    Endpoints API demonstrating scalable APIs for multiple platforms.
+Google Cloud Certified (CP100A) • Global Finalist, Google Cloud Developer Challenge (2013) • NASA Space Apps Challenge - Google Cloud Mentor (2018) • Mozilla Bug Hunter • Google Chrome Top Contributor (2014-2018) • Speaker: DevCongress Ghana, NSBE Ghana Conference
 
-    - **RTTAP**, *Real Time Translation Application with Image Processing*,
-    February 2014 - August 2015. Researched, designed and implemented a real time
-    android translation application using image processing techniques. Technologies
-    used include Tesseract and the Google Translate API.
+## Technical Skills
 
-
-
-
-*   **Ghana Technology University College**
-
-    *Android Facilitator*, Summer 2015
-
-    -   Guided 42 Students through a 7-week intensive course on developing
-    android apps, successfully building 5 apps in the process, with 3 teams
-    going on to win awards for their apps on campus. Also Held weekly office
-    hours.
-
-    *Lead Google Student Ambassador*, May 2013 — August 2014
-
-    - Facilitated workshops, campaigns and fun events, including training
-    sessions and hackathons while building a thriving tech community on campus.
-    Introduced students and faculty to Google Cloud Technology, Android as well
-    as numerous other Google products and services.
-
-
-Education
----------
-
-*   **Ghana Technology University College**,
-*Bachelor Of Science in Computer Engineering*, July 2015
-
-*   **Accra Academy**
-*WASSCE, General Science*, 2011
-
-
-Activities & Honors
--------------------
-
--   **Invited speaker and Google Cloud Mentor**, *NASA Space Apps Challenge*,
-October 2018.
-
-
--   **Invited speaker**, *NSBE Ghana 7th Annual Conference*, August 2016.
-
--  **Google Cloud Certified**, *CP100A*, 2015
-
--   **Bug-hunter**, *Mozilla*, 2014. Patched bugs related to Treeherder, the
-backend and reporting dashboard for Mozilla check-ins including the results of
-automatic builds and their respective tests.
-
--   **Udacity Android Student** fully sponsored by Google(up to $1000 worth).
-    Completed course exceeding expectations. 2013.
-
--   **Google Chrome Top Contributor** on the *Google Product Forums and Help on
-Social, #gHelp*. 2014 — 2018.
-
--   **Speaker** at *DevCongress Ghana*,  2013.
-
--   **Finalist** in the 2013 *Google Cloud Developer Challenge*. Built
-***tHelp***, an online volunteering platform.
-
--   **Project Committee Member**, *United Nations Students Association, GTUC*,
-2013 — 2015.
-
--   **Member/Organizer**, *National Society of Black Engineers, GTUC Chapter*.
-Co-organized Black History Month, 2015. Part of team to open the first high
-school NSBE Chapter in Ghana at Accra Girls.
-
--   **Volunteer** and **Organizer** at *tHelp*, fixing tech problems of general
-public for free on National Volunteers Day.
-
-
-Skills & Interests
-------
-
-*   **Technical Expertise**:
-    Python, Flask, Django, Google App Engine, JavaScript.
-
-*   **Other Technology**:
-
-    Angular, Java(Android), Markdown, CSS, HTML, Node.js, C++, REST, SOAP, XML,
-    React Native,
-
-    Google Cloud Storage, Heroku, Google Compute Engine, Git, Google Cloud
-    Builder,
-
-    Google Cloud Datastore(NoSQL), PostgreSQL, OracleDb, Firebase RTDB
-
-    Linux(Ubuntu, Debian, Oracle Linux, RHEL, Centos), Android, MacOS,
-
-    Apache HTTP Server, Nginx,
-
-    Packer, Vagrant, VirtualBox, Docker, Continuous Integration, Continuous Deployment,
-
-    Vim, Android Studio,
-
-    Shapefiles, KML, GeoJSON, Fusion tables.
-
-
-*   **Some Interests in no particular order include**
-    guitar music composition, gaming, football(soccer), open source, arduino &
-    raspberry pi boards, disassembly and reassembly of electronics, web
-    design and machine learning.
-
+- **Cloud & Infrastructure:** Google Cloud Platform (App Engine, Cloud SQL, Cloud Build, Cloud Tasks, Cloud Storage, Cloud Vision API, Compute Engine); Docker; CI/CD; Linux
+- **Languages & Frameworks:** Python; JavaScript; Java (Android); Django; Flask; React Native; NestJS; Angular
+- **Databases & Tools:** PostgreSQL; Google Cloud Datastore; Firebase RTDB; Redis
+- **Other Skills:** API Design; Microservices; Cloud Architecture; Geospatial Data

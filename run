@@ -1,3 +1,4 @@
 LATEX_TEMPLATE="./template/default.latex"
 
-pandoc resume.md --latex-engine=xelatex --template=$LATEX_TEMPLATE -H header.tex -o jeff.pdf
+pandoc --verbose resume.md --pdf-engine=tectonic --template=$LATEX_TEMPLATE -H header.tex -o jeff.pdf
+open jeff.pdf

@@ -1,12 +1,20 @@
 \usepackage[top=0.4in, bottom=0.4in, left=0.5in, right=0.5in]{geometry}
-\usepackage{tgpagella}
 \usepackage{ragged2e}
 \usepackage{hyperref}
+\usepackage{fontawesome}
+\usepackage{xcolor}
+\usepackage{multicol}
+\usepackage{enumitem}
 
 \usepackage{titlesec}
-\titleformat{\section}{\huge\headerfont\bfseries\centering}{\thesection}{1em}{}
-\titlespacing{\section}{0pt}{-1em}{1em}
-\titleformat{\subsection}{\large\headerfont\bfseries\MakeUppercase}{\thesubsection}{1em}{}
+\titleformat{\section}{\huge\bfseries\centering}{\thesection}{1em}{}
+\titlespacing{\section}{0pt}{-1em}{0em} 
+
+
+% Control list spacing and indentation
+\setlist[itemize]{leftmargin=*, topsep=1em, partopsep=0pt, before={\vspace*{-\baselineskip}}}
+
+\titleformat{\subsection}{\large\bfseries}{\thesubsection}{1em}{}
 
 \setmainfont[
     Path=\@fontdir,
@@ -16,16 +24,14 @@
     BoldItalicFont=*-SemiBoldItalic,
 ]{OpenSans}
 
-\usepackage{multicol}
 \pagestyle{empty}
 \hyphenation{Media-Wiki}
 
-\renewcommand{\labelitemi}{}
+\newcommand{\contact}[1]{\headerfont\bfseries #1}
+
+\renewcommand{\labelitemi}{\raise .2ex\hbox{\tiny$\blacktriangleright$}}
 \renewcommand{\labelitemii}{\raise .2ex\hbox{\tiny$\blacktriangleright$}}
 \renewcommand{\labelitemiii}{\raise .2ex\hbox{\tiny$\blacktriangleright$}}
-
-\newcommand{\contact}[1]{#1 \headerfont\bfseries}
-
 
 % from http://tex.stackexchange.com/a/29796/16139
 \newsavebox{\zerobox}
@@ -36,3 +42,13 @@
   }
   {\par\vss\egroup\ht\zerobox=0pt \wd\zerobox=0pt \dp\zerobox=0pt
    \box\zerobox}
+
+\newcommand{\jobsep}{\vspace{0.01em}}  % Adjustable spacing between jobs
+
+\definecolor{iconcolor}{HTML}{4285F4} % font awesome icon color
+\hypersetup{
+    colorlinks=false,     % Disable colored links
+    urlcolor=black,       % Set URL color to black
+    linkcolor=black,      % Set link color to black
+    pdfborder={0 0 0}    % Remove all borders/underlines
+}
